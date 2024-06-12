@@ -17,3 +17,8 @@ Content Moderation: Filters violent content on social media and video platforms.
 
 https://github.com/TanveerSingh230/Fight_Detection/assets/108932947/115b20d1-8604-45b8-8ddb-e8d67b1fd8b4
 
+
+
+https://github.com/TanveerSingh230/Fight_Detection/assets/108932947/ec64472e-e526-4d3a-98f6-7f03398dbb6a
+
+
