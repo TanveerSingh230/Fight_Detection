@@ -1,6 +1,7 @@
 # Fight Detection
- This project explores the use of advanced object detection models for fight detection in real-world scenarios.
- YOLO-NAS, YOLOv8, YOLOv10:
+ This project explores the use of advanced object detection models for fight detection in real-world scenarios.  
+ 
+ #### YOLO-NAS, YOLOv8, YOLOv10:
 These state-of-the-art models represent the cutting edge in object detection, offering a balance between accuracy, speed, and efficiency.
 
 Real-World Uses:
