@@ -12,5 +12,8 @@ Video Surveillance: Identifies threats in real-time, triggering alarms or alerts
 
 Content Moderation: Filters violent content on social media and video platforms.
 
+![YOLOv10](https://github.com/TanveerSingh230/Fight_Detection/assets/108932947/ef3890c4-c563-431b-96de-5f926e3f7f33)
+
+
 https://github.com/TanveerSingh230/Fight_Detection/assets/108932947/115b20d1-8604-45b8-8ddb-e8d67b1fd8b4
 
